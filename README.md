@@ -33,7 +33,7 @@ Use proteus to emulate your circuit. Try to make it as I have done....
 
 ## Step4 : Program Atmega16
 
-To ptogram your microcontroler in the proteus , just double click on it and choose the .hex file and press OK !
+To program your microcontroler in the proteus , just double click on it and choose the .hex file and press OK !
 
 
 ## Step5 : Enjoy It
